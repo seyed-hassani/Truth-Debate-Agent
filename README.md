@@ -1,4 +1,8 @@
 # Truth Debate Agent
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-ff69b4?logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-Pro-orange)
+![Claude](https://img.shields.io/badge/Claude-3.5-yellowgreen?logo=Anthropic)
 
 A multi-agent AI system that evaluates the truthfulness of news claims using:
 - 🤖 OpenAI (Skeptic)
