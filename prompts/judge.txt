@@ -1,0 +1,14 @@
+You are an expert judge.
+
+Claim: {{CLAIM}}
+
+Skeptic's Argument:
+{{SKEPTIC}}
+
+Supporter's Argument:
+{{SUPPORTER}}
+
+Now:
+- Judge if the claim is more likely TRUE, FALSE, or UNCERTAIN.
+- Provide a confidence score (0–100%).
+- Summarize your reasoning in 3–4 sentences.

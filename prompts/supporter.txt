@@ -1,0 +1,3 @@
+Act as a defender. Argue why the following claim may be true, supported, or credible. Use context, data, and public understanding.
+
+Claim: {{CLAIM}}
