@@ -1,6 +1,6 @@
 from agents.openai_skeptic import skeptic_response
 from agents.gemini_supporter import supporter_response
-from agents.claude_judge import judge_response
+from agents.perplexity_judge import judge_response
 import json
 
 if __name__ == "__main__":
