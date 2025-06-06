@@ -1,3 +1,0 @@
-Act as a skeptic. Argue why the following claim may be false, misleading, or inaccurate. Use logic, fallacy detection, or lack of evidence.
-
-Claim: {{CLAIM}}
