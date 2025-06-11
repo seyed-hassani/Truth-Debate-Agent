@@ -5,13 +5,13 @@
 ![Claude](https://img.shields.io/badge/Claude-3.5-yellowgreen?logo=Anthropic)
 
 A multi-agent AI system that evaluates the truthfulness of news claims using:
-- 🤖 OpenAI (Skeptic)
-- 🤖 Gemini (Supporter)
-- 🤖 Claude (Judge)
+-  OpenAI (Skeptic)
+-  Gemini (Supporter)
+-  Claude (Judge)
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. Input a news claim.
 2. Skeptic (OpenAI) **refutes** the claim.
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 Create a `.env` file and add your API keys (do **NOT** upload this):
 
@@ -41,8 +41,7 @@ OPENAI_API_KEY=your_openai_key
 GEMINI_API_KEY=your_gemini_key
 ANTHROPIC_API_KEY=your_claude_key
 ```
-
-## 📁 Project Structure
+ Project Structure
 
 ```bash
 truth-debate-agent/
@@ -59,7 +58,7 @@ truth-debate-agent/
 └── README.md
 ```
 
-## 🖼 Example Output (`output/results.json`)
+##  Example Output (`output/results.json`)
 
 ```json
 {
@@ -74,12 +73,12 @@ truth-debate-agent/
 }
 ```
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
-* 🌐 Web UI with Streamlit
-* 🔁 Multi-round debates
-* 📊 Verdict dashboard
-* 🧩 LangGraph or RAGE agent integration
+*  Web UI with Streamlit
+*  Multi-round debates
+*  Verdict dashboard
+*  LangGraph or RAGE agent integration
 
 Built with ❤️ by @seyed-hassani
 
